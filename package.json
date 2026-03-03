@@ -1,0 +1,24 @@
+{
+  "name": "nextgenwebstudios1",
+  "version": "1.0.0",
+  "description": "Proyecto: Mission Start: Auditoría de Rendimiento y Estandarización del Workspace en \"NextGen Web Solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiogarcia61/NextGenWebStudios1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sergiogarcia61/NextGenWebStudios1/issues"
+  },
+  "homepage": "https://github.com/sergiogarcia61/NextGenWebStudios1#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
